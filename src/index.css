@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 20px;
+}
+
+.titulo{
+    margin-top: 41px;
+}
+.subtitulo{
+    margin-top: 21px;
+}
+.label-titulo{
+    margin-top: 73px;
+}
+.boton-1{
+    margin-top: 16px;
+}
+.boton-2{
+    margin-top: 54px;
+}
+.boton-1-1{
+    margin-top: 54px;
+}
+.foot{
+    margin-top: 113px;
+}
+.field-nombre{
+    margin-top: 29px;
+}
+
+
